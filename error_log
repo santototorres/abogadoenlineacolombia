@@ -1,0 +1,168 @@
+[20-Jan-2026 15:04:44 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:04:44 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:04:44 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:04 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:04 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:04 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:05 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:06 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:07 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:19 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:19 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:19 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:20 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:22 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:22 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:22 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:34 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:34 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:34 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:49 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:49 America/Bogota] PHP Warning:  require(/home/abogadoe/public_html/../config/db.php): Failed to open stream: No such file or directory in /home/abogadoe/public_html/register_client.php on line 2
+[20-Jan-2026 15:06:49 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home/abogadoe/public_html/../config/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/abogadoe/public_html/register_client.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/abogadoe/public_html/register_client.php on line 2
